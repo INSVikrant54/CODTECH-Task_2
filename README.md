@@ -5,6 +5,9 @@ Domain : WEB DEVELOPMENT
 Duration : 1st JUNE 2024 to 13Th JULY 2024
 
 # Simple Weather Application
+![image](https://github.com/INSVikrant54/CODTECH-Task_2/assets/170170307/616f9ebd-34fc-4c66-a65f-ae17c2defa43)
+![image](https://github.com/INSVikrant54/CODTECH-Task_2/assets/170170307/410ef467-d141-4056-85a7-eae4feb4e0e8)
+
 
 ## Overview of Weather App
 
